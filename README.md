@@ -33,10 +33,10 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 3. Train the Model (Optional)
-If you don't have the phishing_model.pkl file, train it using the dataset:
-
+If you don't have the phishing_model.pkl file, train it using the dataset: 
 bash
 python train_model.py
+
 4. Start the Web App
 bash
 uvicorn app:app --reload
