@@ -1,4 +1,4 @@
-🛡️ Phishing URL Detector (ML + Hybrid Rules)
+#🛡️ Phishing URL Detector (ML + Hybrid Rules)
 A machine learning-based web application designed to detect phishing URLs in real-time. This project uses a Random Forest classifier trained on thousands of malicious and legitimate URLs, combined with rule-based heuristics to minimize false positives.
 
 🎯 The Problem
